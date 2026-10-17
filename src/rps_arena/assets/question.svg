@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Hidden move">
+  <circle cx="128" cy="128" r="92" fill="none" stroke="#a5b4fc" stroke-opacity="0.55" stroke-width="5" stroke-dasharray="4 14" stroke-linecap="round"/>
+  <path d="M96 104C96 66 160 66 160 106C160 132 128 132 128 160" fill="none" stroke="#c7d2fe" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="194" r="9" fill="#c7d2fe"/>
+</svg>
