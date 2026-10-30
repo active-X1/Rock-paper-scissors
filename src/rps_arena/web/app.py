@@ -143,7 +143,7 @@ class ArenaPage:
             self.busy = False
         self.arena.refresh()
         self.scoreboard.refresh()
-        self.trail.refresh()
+        self.trail.refresh() 
 
     def reset(self, _event=None) -> None:
         if self.busy:
